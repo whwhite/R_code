@@ -1,2 +1,2 @@
 # Introduction
-This repository houses all of my R code that I want to document and share publicly in an effort to organize the R code that I have created over the years. I am slowly adding bits of code to this repository and hope it will help me remember the amazing things R can do as well as be a resource for those who stumble across it. 
+This repository houses all of my R code that I want to document and share publicly in an effort to organize the R code that I have created over the years. I am slowly adding bits of code to this repository and hope it will help me remember the amazing things R can do as well as be a resource for those who stumble across it. I'll be figuring how to organize this repository as I go.
